@@ -2,29 +2,65 @@
   <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Pravallika 👋</h1>
+<h1 align="center">Hi 👋, I'm Pravallika</h1>
 
 <p align="center">
-  Analytics & Business Intelligence Engineer | Transforming data into impactful decisions
+  <a href="https://www.linkedin.com/in/ramyapravallika-18072000/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ramya-Pravallika">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ramyapravallika07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-##  About Me
-
-Driven Analytics Engineer with hands-on experience in data transformation, dashboarding, and performance optimization. I’ve worked on high-impact projects across Retail, Finance, Healthcare, and beyond. I’m currently **serving my notice period** and **available to join immediately** in Data or Business Analyst roles at top product companies.
+🚀 **Passionate Analytics Engineer | Business & Data Analyst Aspirant**  
 
 ---
 
-## 🛠 Skills Snapshot
+### 🔥 Rapid Fire  
 
-| Data Analysis & BI | Programming & Databases       | Statistical Analysis         |
-|--------------------|-------------------------------|------------------------------|
-| Power BI, Tableau, Excel, Data Mining | Python (Pandas, NumPy, Matplotlib), SQL, PostgreSQL, MongoDB | Hypothesis Testing, A/B Testing, ANOVA, Regression, Classification |
+- 💼 I'm currently working on: **Store-Level Profitability, CLV Segmentation, and Funnel Optimization projects**  
+- 📚 I'm currently learning: **Advanced SQL Optimization, Data Storytelling, and Generative AI for Analytics**  
+- 💬 Ask me about: **Business Intelligence, ETL Pipelines, Power BI, Tableau, and SQL Data Modeling**  
+- ⚡ Fun fact: *I love turning raw data into stories that drive smarter business decisions!*  
 
-| ETL & Data Prep       | Cloud / Automation           | Frontend Skills            |
-|------------------------|------------------------------|-----------------------------|
-| Data Cleaning, Modeling, Pipelines | Microsoft Azure, n8n, GitHub | Basic HTML, CSS, JS |
+---
+
+### 🛠 Skills  
+
+**Programming & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+**Business Intelligence & Visualization**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+**Data Science & Stats**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Stats](https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge)  
+
+**Cloud & Automation**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  
+
+**Others**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ---
 
@@ -72,13 +108,16 @@ Driven Analytics Engineer with hands-on experience in data transformation, dashb
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=tokyonight" alt="Pravallika's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Pravallika&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Pravallika&layout=compact&theme=radical" height="160"/>
 </p>
 
+---
+
+✨ *Check out my portfolio for more detailed case studies:* [Portfolio Link](https://your-portfolio-link.com)  
 ---
 
 ##  Certifications & Academics
