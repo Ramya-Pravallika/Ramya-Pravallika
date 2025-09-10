@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="[https://your-image-link.com/banner.png](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pravallika</h1>
