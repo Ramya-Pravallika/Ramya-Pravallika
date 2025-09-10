@@ -107,8 +107,3 @@
   <b>Longest Streak:</b> 2 (Apr 25 – Apr 26, 2021)  
 </p>
 
----
-
-✨ *Check out my portfolio for more detailed case studies:* [Portfolio Link]([https://your-portfolio-link.com](https://ramyapravallika.netlify.app/))  
----
->  Keen to explore data-driven opportunities and build impactful analytics products.
