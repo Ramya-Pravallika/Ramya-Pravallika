@@ -21,7 +21,7 @@
   <a href="mailto:ramyapravallika07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://ramyapravallika.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white"/>
   </a>
 </p>
@@ -109,6 +109,6 @@
 
 ---
 
-✨ *Check out my portfolio for more detailed case studies:* [Portfolio Link](https://your-portfolio-link.com)  
+✨ *Check out my portfolio for more detailed case studies:* [Portfolio Link]([https://your-portfolio-link.com](https://ramyapravallika.netlify.app/))  
 ---
 >  Keen to explore data-driven opportunities and build impactful analytics products.
