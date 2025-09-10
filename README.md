@@ -104,24 +104,4 @@
 
 ✨ *Check out my portfolio for more detailed case studies:* [Portfolio Link](https://your-portfolio-link.com)  
 ---
-
-##  Certifications & Academics
-
-- Microsoft Certified: **Azure Data Fundamentals**  
-- **BCG Data Science Job Simulation** – Forage  
-- **PwC Power BI Job Simulation** – Forage  
-- **IBM Applied Data Science Capstone** – Coursera  
-- **B.Tech. (ECE)** – Saveetha Institute of Medical & Technical Sciences (2018–2022)
-
----
-
-##  Get In Touch
-
-<p align="center">
-  <a href="mailto:ramyapravallika07@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/ramyapravallika-18072000/">LinkedIn</a> •
-  <a href="https://github.com/Ramya-Pravallika">GitHub</a> •
-  <a href="https://your-portfolio-link.com">Portfolio</a>
-</p>
-
 >  Keen to explore data-driven opportunities and build impactful analytics products.
