@@ -99,12 +99,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Ramya-Pravallika&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://raw.githubusercontent.com/Ramya-Pravallika/Ramya-Pravallika/main/assets/badges/github-stats.svg" height="150"/>
+  <img src="https://raw.githubusercontent.com/Ramya-Pravallika/Ramya-Pravallika/main/assets/badges/top-langs.svg" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ramya-Pravallika&theme=tokyonight" height="150"/>
+  <img src="https://raw.githubusercontent.com/Ramya-Pravallika/Ramya-Pravallika/main/assets/badges/streak.svg" height="150"/>
 </p>
 
 
