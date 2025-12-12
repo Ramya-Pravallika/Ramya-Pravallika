@@ -8,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=Ramya-Pravallika&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Pravallika</h1>
+<h1 align="center">Hi 👋, I'm Ramya Pravallika</h1>
+<h3 align="center">Machine Learning · Data Science · Analytics Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramyapravallika-18072000/">
@@ -28,38 +28,103 @@
 
 ---
 
-🚀 **Passionate Analytics Engineer | Business & Data Analyst Aspirant**  
+## 🚀 About Me  
+💡 **Machine Learning & Data Science enthusiast** skilled in analytical problem-solving, predictive modeling, and building scalable data workflows.  
+📊 Specialized in **statistics, experimentation, ML pipelines, business insights, and ETL automation**.  
+📈 Currently working on:  
+- ML models (classification, regression, NLP, time series)  
+- Customer analytics & funnel optimization  
+- Advanced SQL projects  
+- Real-world ML case studies in retail & finance  
 
 ---
 
-### 🔥 Rapid Fire  
+# 🛠 Technical Skills  
 
-- 💼 I'm currently working on: **Store-Level Profitability, CLV Segmentation, and Funnel Optimization projects**  
-- 📚 I'm currently learning: **Advanced SQL Optimization, Data Storytelling, and Generative AI for Analytics**  
-- 💬 Ask me about: **Business Intelligence, ETL Pipelines, Power BI, Tableau, and SQL Data Modeling**  
-- ⚡ Fun fact: *I love turning raw data into stories that drive smarter business decisions!*  
-
----
-
-### 🛠 Skills  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=python&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge&logo=python&logoColor=white)  ![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=mlflow&logoColor=white)  ![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-4682B4?style=for-the-badge)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+## 🔹 Programming & Scripting
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels)  
+- SQL (CTEs, Window Functions, Query Optimization)  
+- Bash / Shell scripting  
 
 ---
 
-### 📊 GitHub Stats  
+## 🔹 Machine Learning & AI
+- Supervised Learning: Classification, Regression  
+- Unsupervised Learning: Clustering, PCA, Anomaly Detection  
+- Feature Engineering & Feature Selection  
+- Hyperparameter Tuning (GridSearch, RandomSearch, Optuna)  
+- Model Evaluation (AUC, F1, RMSE, Cross-Validation)  
+- NLP: Text Preprocessing, TF-IDF, Embeddings, Sentiment Analysis  
+- Time-Series Forecasting: ARIMA, Prophet  
+- Deployment Basics: Streamlit, Flask, FastAPI  
+
+---
+
+## 🔹 Statistics & Experimentation
+- Probability, Sampling  
+- Hypothesis Testing (t-test, Chi-Square, ANOVA)  
+- Statistical Inference  
+- A/B Testing  
+- Regression Analysis (Linear, Logistic)  
+
+---
+
+## 🔹 Business Intelligence & Visualization
+- Power BI  
+- Tableau  
+- Excel (Pivot Tables, Power Query, VBA basics)  
+- Google Data Studio / Looker Studio  
+- Data Storytelling & Dashboard Design  
+
+---
+
+## 🔹 Databases & Data Engineering
+- PostgreSQL, MySQL, SQL Server  
+- MongoDB  
+- ETL Pipelines  
+- Data Modeling (Star Schema, Snowflake Schema)  
+- API Integration  
+- Workflow Automation: Apache Airflow, n8n  
+- Git & GitHub  
+
+---
+
+## 🔹 Cloud & Big Data
+- Azure (ADF, Synapse, Storage)  
+- AWS (S3, Lambda, Athena – optional)  
+- Spark / Databricks (optional but relevant)  
+
+---
+
+## 🔹 Tools & Platforms
+- Jupyter Notebook  
+- VS Code  
+- Anaconda  
+- GitHub Projects, CI/CD basics  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Pravallika&layout=compact&theme=tokyonight" alt="Most Used Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=tokyonight" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Pravallika&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya-Pravallika&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya-Pravallika&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🤝 Connect With Me  
+<p align="center">
+  <b>Let’s collaborate on ML, analytics, dashboards, and data engineering projects!</b>  
 </p>
 
 <p align="center">
-  <b>Total Contributions:</b> 34 &nbsp;&nbsp; | &nbsp;&nbsp;
-  <b>Current Streak:</b> 0 (Sep 10) &nbsp;&nbsp; | &nbsp;&nbsp;
-  <b>Longest Streak:</b> 2 (Apr 25 – Apr 26, 2021)  
+  <a href="https://www.linkedin.com/in/ramyapravallika-18072000/">LinkedIn</a> •
+  <a href="mailto:ramyapravallika07@gmail.com">Email</a> •
+  <a href="https://ramyapravallika.netlify.app/">Portfolio</a>
 </p>
 
