@@ -46,59 +46,15 @@
 
 ---
 
-##  Projects Portfolio
-
-- **Retail – Store-Level Profitability & Location Expansion Analysis**  
-  *Built dashboards that pinpointed high-margin stores and identified top 5 cities for expansion based on ROI.*  
-  **Tools:** Power BI · SQL · Python
-
-- **E-commerce – Cart Abandonment & Conversion Funnel Analysis**  
-  *Mapped the buyer journey, detected drop-offs, and implemented strategies that improved conversions.*  
-  **Tools:** Tableau · SQL · Python
-
-- **Banking – CLV Segmentation**  
-  *Created customer cohorts based on lifetime value with churn modeling to drive targeted retention.*  
-  **Tools:** Python · SQL · Power BI
-
-- **Healthcare – Resource Utilization & Wait Time Analysis**  
-  *Optimized hospital scheduling, reducing patient wait times by ~20%.*  
-  **Tools:** Python · Power BI
-
-- **Supply Chain – Delivery Efficiency Dashboard**  
-  *Analyzed delivery routes and reduced delays via better logistics planning.*  
-  **Tools:** Power BI · SQL · Excel
-
-- **Telecom – Usage & Recharge Behavior Analysis**  
-  *Analyzed churn indicators and enabled proactive retention strategies.*  
-  **Tools:** Python · Tableau
-
-- **Finance – Personal Expense Categorization & Trend Analysis**  
-  *Built visualization tools to automate expense categorization and budgeting insights.*  
-  **Tools:** Python · Power BI
-
-- **Marketing – Campaign ROI & Channel Effectiveness**  
-  *Delivered insights on high-performing marketing channels to optimize spend.*  
-  **Tools:** Tableau · SQL · Power BI
-
-- **Insurance – Claim Processing & Fraud Detection**  
-  *Shortened claim cycles, flagged anomalies, and improved process efficiency.*  
-  **Tools:** Python · SQL · Power BI
-
-- **Energy – Household Electricity Usage Patterns**  
-  *Analyzed usage trends to recommend energy-saving habits.*  
-  **Tools:** Python · Tableau · Power BI
-
----
-
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Pravallika&layout=compact&theme=tokyonight" alt="Most Used Languages" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Pravallika&layout=compact&theme=tokyonight" alt="Most Used Languages" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya-Pravallika&theme=tokyonight" alt="GitHub Streak" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya-Pravallika&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
