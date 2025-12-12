@@ -43,20 +43,19 @@
 
 ## 🔹 Programming & Scripting
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels)  
-- SQL (CTEs, Window Functions, Query Optimization)  
+- SQL
 - Bash / Shell scripting  
 
 ---
 
 ## 🔹 Machine Learning & AI
 - Supervised Learning: Classification, Regression  
-- Unsupervised Learning: Clustering, PCA, Anomaly Detection  
+- Unsupervised Learning: Clustering, Anomaly Detection  
 - Feature Engineering & Feature Selection  
-- Hyperparameter Tuning (GridSearch, RandomSearch, Optuna)  
+- Hyperparameter Tuning  
 - Model Evaluation (AUC, F1, RMSE, Cross-Validation)  
-- NLP: Text Preprocessing, TF-IDF, Embeddings, Sentiment Analysis  
-- Time-Series Forecasting: ARIMA, Prophet  
-- Deployment Basics: Streamlit, Flask, FastAPI  
+- NLP: Text Preprocessing, Sentiment Analysis  
+- Time-Series Forecasting 
 
 ---
 
@@ -73,7 +72,7 @@
 - Power BI  
 - Tableau  
 - Excel (Pivot Tables, Power Query, VBA basics)  
-- Google Data Studio / Looker Studio  
+- Google Data Studio
 - Data Storytelling & Dashboard Design  
 
 ---
@@ -82,17 +81,10 @@
 - PostgreSQL, MySQL, SQL Server  
 - MongoDB  
 - ETL Pipelines  
-- Data Modeling (Star Schema, Snowflake Schema)  
+- Data Modeling
 - API Integration  
-- Workflow Automation: Apache Airflow, n8n  
+- Workflow Automation: n8n  
 - Git & GitHub  
-
----
-
-## 🔹 Cloud & Big Data
-- Azure (ADF, Synapse, Storage)  
-- AWS (S3, Lambda, Athena – optional)  
-- Spark / Databricks (optional but relevant)  
 
 ---
 
@@ -100,19 +92,19 @@
 - Jupyter Notebook  
 - VS Code  
 - Anaconda  
-- GitHub Projects, CI/CD basics  
+- GitHub Projects
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=tokyonight" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-Pravallika&show_icons=true&theme=tokyonight&rank_icon=github" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Pravallika&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya-Pravallika&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Ramya-Pravallika&theme=tokyonight" height="150"/>
 </p>
 
 ---
